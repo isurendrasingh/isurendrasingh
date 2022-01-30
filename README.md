@@ -1,6 +1,6 @@
-### Hi 👋
+### Hey, I am Surendra 🤙
 
-## I'm Surendra Singh 😃
+I'm a full stack software developer from India building apps for the Web and Mobile. I am passionate about new technologies 🔥
 
 <!--
 **isurendrasingh/isurendrasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
